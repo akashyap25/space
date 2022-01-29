@@ -1,0 +1,98 @@
+a{
+    text-decoration: none;
+    padding: 10px;
+}
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.space{
+    font-size: 10rem;
+    margin: 50px 0;
+}
+p{
+    width: 55%;
+}
+.background{
+    background-image: url(/starter-code/assets/home/background-home-desktop.jpg);
+    background-color: #cccccc;
+    padding: 300px;
+}
+.bg{
+    padding: 300px;
+}
+.technologybg{
+    padding: 300px;
+}
+.crewbg{
+    padding: 300px;
+}
+
+.heading{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-size: 2rem;
+}
+.body{
+    width: 50%;
+    position: absolute;
+    top: 150px;
+}
+.explore{
+    position:absolute;
+    bottom: 100px;
+    right: 250px;
+}
+.dstnbody{
+    font-size: 1.5rem;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+}
+
+.crwbody{
+    font-size: 1.5rem;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+.techbody{
+    font-size: 1.5rem;
+    text-align: center;
+    position: absolute;
+    top: 250px;
+    left: 500px;
+}
+.img{
+    
+    float: left;
+    margin-right: 100px;
+}
+.crewimage{
+    width: 25%;
+    float: left;
+    margin-right: 200px;
+}
+.desbody{
+    width: 75%;
+    font-size: medium;
+}
+.crewsbody{
+    width: 75%;
+    font-size: large;
+}
+.europabg{
+    padding: 300px;
+    margin: 0;
+}
+.crewbody{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    
+}
